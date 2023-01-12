@@ -28,7 +28,9 @@ function About() {
           <p>
             with the release of Letraset sheets containing Lorem Ipsum passages,
             and more recently with desktop publishing software like Aldus
-            PageMaker including versions of Lorem Ipsum.
+            PageMaker including versions of Lorem Ipsum. and more recently with
+            desktop publishing software like Aldus PageMaker including versions
+            of Lorem Ipsum.
           </p>
         </div>
       </div>

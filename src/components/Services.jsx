@@ -7,6 +7,7 @@ function Services() {
   return (
     <div className="services" id="services">
       <h3>What can we offer!</h3>
+
       <div className="wrapServices">
         {services.map((service, i) => (
           <ServiceDetails service={service} key={i} />

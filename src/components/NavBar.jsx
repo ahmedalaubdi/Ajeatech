@@ -20,7 +20,7 @@ function NavBar() {
           <a href="#home">Home</a>
           <a href="#services">Services</a>
           <a href="#about">About</a>
-          <a href="#projects">Projects</a>
+          <a href="#contact">Contact</a>
         </div>
         <div onClick={() => setActive(!active)} className="wrap-humb">
           <div className={active ? "activeham-b" : "ham-b"} />
@@ -42,6 +42,11 @@ function NavBar() {
           <li>
             <a href="#about" onClick={() => setActive(!active)}>
               about
+            </a>
+          </li>
+          <li>
+            <a href="#contact" onClick={() => setActive(!active)}>
+              Contact
             </a>
           </li>
         </ul>

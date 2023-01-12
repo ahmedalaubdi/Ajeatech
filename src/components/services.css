@@ -8,8 +8,13 @@
 }
 
 .services h3 {
+  margin: 0 auto;
   margin-bottom: 3rem;
+  border-bottom: 2px solid rgb(155, 151, 148, 0.2);
+  line-height: 2.3rem;
+  width: 300px;
 }
+
 .wrapServices {
   width: 100%;
   display: grid;
@@ -30,6 +35,7 @@
 }
 
 .service h5 {
+  font-size: 1.2rem;
   border-radius: 2rem;
   border: 2px solid var(--Mint-color);
   max-width: 250px;

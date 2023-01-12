@@ -12,8 +12,13 @@ function Hero() {
           className="lottiHero"
         />
         <div className="intro">
-          <h2>Get Pro, Grow Your Buissness Fast</h2>
+          <h2>
+            IT Services and Support
+            <br /> specializes in IT Consulting.
+            <br />
+          </h2>
           <p>
+            <strong> Get Pro, Grow Your Buissness Fast </strong>
             Together with your team, our developers will co-create a tech
             solution tailored to your needs. We employ design thinking to ensure
             smooth adoption and effective user experience, and can integrate
